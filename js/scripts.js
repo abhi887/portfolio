@@ -1,14 +1,3 @@
-/*-----------------------------------------------------------------------------------
-
-    Theme Name: Stark
-    Description: The Portfolio Onepage Template
-    Author: ui-themez
-    Author URI: http://themeforest.net/user/ui-themez
-    Version: 1.0
-
------------------------------------------------------------------------------------*/
-
-
 $(function() {
 
     "use strict";
